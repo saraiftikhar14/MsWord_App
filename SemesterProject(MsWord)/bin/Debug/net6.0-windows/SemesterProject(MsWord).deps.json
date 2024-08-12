@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SemesterProject(MsWord)/1.0.0": {
+        "runtime": {
+          "SemesterProject(MsWord).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SemesterProject(MsWord)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
